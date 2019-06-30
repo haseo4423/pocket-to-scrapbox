@@ -3,3 +3,4 @@
 function/**/*
 !lambda_function.py
 *.zip
+.vscode
